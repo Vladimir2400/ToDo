@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_logics/static/css/main.75df3614.css",
+    "main.js": "/react_logics/static/js/main.a2e8a95f.js",
+    "static/js/787.a48899d9.chunk.js": "/react_logics/static/js/787.a48899d9.chunk.js",
+    "index.html": "/react_logics/index.html",
+    "main.75df3614.css.map": "/react_logics/static/css/main.75df3614.css.map",
+    "main.a2e8a95f.js.map": "/react_logics/static/js/main.a2e8a95f.js.map",
+    "787.a48899d9.chunk.js.map": "/react_logics/static/js/787.a48899d9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75df3614.css",
+    "static/js/main.a2e8a95f.js"
+  ]
+}
