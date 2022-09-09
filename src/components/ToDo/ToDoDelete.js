@@ -15,7 +15,6 @@ function ToDo({ todo, toggleTask, removeTask }) {
             </div>
         </div>
 
-
     )
 }
 
